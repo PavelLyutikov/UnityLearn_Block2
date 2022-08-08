@@ -8,7 +8,7 @@ In this exercise, I have modified the provided script by changing the behavior o
 
 ____
 
-<img src="file:///Users/pavellyutikov/Desktop/scr1.png" title="" alt="scr1.png" data-align="center">
+<img src="https://github.com/PavelLyutikov/UnityLearn_Block2/blob/main/Screenshot/scr1.png?raw=true" title="" alt="scr1.png" data-align="center">
 
 ___
 
@@ -34,7 +34,7 @@ In this project, I have consolidated my knowledge in moving data between scenes 
 
 ---
 
-<img src="file:///Users/pavellyutikov/Desktop/scr2.png" title="" alt="scr2.png" data-align="center">
+<img src="https://github.com/PavelLyutikov/UnityLearn_Block2/blob/main/Screenshot/scr2.png?raw=true" title="" alt="scr2.png" data-align="center">
 
 ---
 
@@ -72,7 +72,7 @@ In this project, I applied the principles of object-oriented programming. I also
 
 ---
 
-<img src="file:///Users/pavellyutikov/Desktop/scr3.png" title="" alt="scr3.png" data-align="center">
+<img src="https://github.com/PavelLyutikov/UnityLearn_Block2/blob/main/Screenshot/scr3.png?raw=true" title="" alt="scr3.png" data-align="center">
 
 ---
 
